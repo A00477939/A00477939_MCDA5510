@@ -1,0 +1,17 @@
+/Users/hrithikarora/Documents/SMU/Assignment/net assignment/ProgAssign1/ProgAssign1/bin/Debug/net7.0/ProgAssign1
+/Users/hrithikarora/Documents/SMU/Assignment/net assignment/ProgAssign1/ProgAssign1/bin/Debug/net7.0/ProgAssign1.deps.json
+/Users/hrithikarora/Documents/SMU/Assignment/net assignment/ProgAssign1/ProgAssign1/bin/Debug/net7.0/ProgAssign1.runtimeconfig.json
+/Users/hrithikarora/Documents/SMU/Assignment/net assignment/ProgAssign1/ProgAssign1/bin/Debug/net7.0/ProgAssign1.dll
+/Users/hrithikarora/Documents/SMU/Assignment/net assignment/ProgAssign1/ProgAssign1/bin/Debug/net7.0/ProgAssign1.pdb
+/Users/hrithikarora/Documents/SMU/Assignment/net assignment/ProgAssign1/ProgAssign1/obj/Debug/net7.0/ProgAssign1.csproj.AssemblyReference.cache
+/Users/hrithikarora/Documents/SMU/Assignment/net assignment/ProgAssign1/ProgAssign1/obj/Debug/net7.0/ProgAssign1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hrithikarora/Documents/SMU/Assignment/net assignment/ProgAssign1/ProgAssign1/obj/Debug/net7.0/ProgAssign1.AssemblyInfoInputs.cache
+/Users/hrithikarora/Documents/SMU/Assignment/net assignment/ProgAssign1/ProgAssign1/obj/Debug/net7.0/ProgAssign1.AssemblyInfo.cs
+/Users/hrithikarora/Documents/SMU/Assignment/net assignment/ProgAssign1/ProgAssign1/obj/Debug/net7.0/ProgAssign1.csproj.CoreCompileInputs.cache
+/Users/hrithikarora/Documents/SMU/Assignment/net assignment/ProgAssign1/ProgAssign1/obj/Debug/net7.0/ProgAssign1.dll
+/Users/hrithikarora/Documents/SMU/Assignment/net assignment/ProgAssign1/ProgAssign1/obj/Debug/net7.0/refint/ProgAssign1.dll
+/Users/hrithikarora/Documents/SMU/Assignment/net assignment/ProgAssign1/ProgAssign1/obj/Debug/net7.0/ProgAssign1.pdb
+/Users/hrithikarora/Documents/SMU/Assignment/net assignment/ProgAssign1/ProgAssign1/obj/Debug/net7.0/ProgAssign1.genruntimeconfig.cache
+/Users/hrithikarora/Documents/SMU/Assignment/net assignment/ProgAssign1/ProgAssign1/obj/Debug/net7.0/ref/ProgAssign1.dll
+/Users/hrithikarora/Documents/SMU/Assignment/net assignment/ProgAssign1/ProgAssign1/bin/Debug/net7.0/CsvHelper.dll
+/Users/hrithikarora/Documents/SMU/Assignment/net assignment/ProgAssign1/ProgAssign1/obj/Debug/net7.0/ProgAssign1.csproj.CopyComplete

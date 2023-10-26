@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HmX/bA3w6U1+cBniCDHg7CEjJe5kvU1c1BKw+cTq2kIbUt5QpbUpPTFwGJ61CL8GJmsXk8vVpi7TGakhhPp2Aw==",
+  "success": true,
+  "projectFilePath": "/Users/hrithikarora/Documents/SMU/Assignment/net assignment/ProgAssign1/ProgAssign1/ProgAssign1.csproj",
+  "expectedPackageFiles": [
+    "/Users/hrithikarora/.nuget/packages/csvhelper/30.0.1/csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

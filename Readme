@@ -1,0 +1,32 @@
+Project Title: CSV File Manipulation
+
+Project Description:
+This project focuses on the systematic traversal of directories to locate CSV files. It performs a comprehensive validation of the data within these CSV files, segregating the information into two distinct files. The first file stores all the correctly formatted and valid data in CSV format. The second file, a log file, contains information regarding skipped records, the total count of skipped rows, valid rows, and the execution time.
+
+Log/Output/Raw data File Location:
+
+Located in Program.cs
+
+1) Output File Location: /Users/hrithikarora/Documents/SMU/Assignment/net assignment/ProgAssign1/Output/outcsv
+
+2) Log File Location: /Users/hrithikarora/Documents/SMU/Assignment/net assignment/ProgAssign1/Log/log.txt
+
+3)Raw Data 
+List<string> files = dirWalker.Walk("/Users/hrithikarora/Documents/SMU/Assignment/net assignment/Sample Data/");
+
+
+Exception Included:
+ 
+1)UnauthorizedAccessException
+2)PathTooLongException
+3)DirectoryNotFoundException
+4)FileNotFoundException
+5)DriveNotFoundException
+6)csvConfig.MissingFieldFound
+7)csvConfig.HeaderValidated
+
+Assumption(Data Cleaning):
+
+1)No null value is allowed
+2)We have a defined heading or header row in a CSV file.
+3)I have use Regex to clean the data
