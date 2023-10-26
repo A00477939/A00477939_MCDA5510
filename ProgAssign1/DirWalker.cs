@@ -22,29 +22,29 @@ namespace Assignment1
                     files.AddRange(Walk(subDir));
                 }
             }
-            catch (UnauthorizedAccessException ex)
+            catch (UnauthorizedAccessException)
             {
-                Console.WriteLine($"Unauthorized access to {path}: {ex.Message}");
+                Console.WriteLine($"Unauthorized access to ");
             }
-            catch (PathTooLongException ex)
+            catch (PathTooLongException)
             {
-                Console.WriteLine($"Path too long while processing {path}: {ex.Message}");
+                Console.WriteLine($"Path too long while processing ");
             }
-            catch (DirectoryNotFoundException ex)
+            catch (DirectoryNotFoundException)
             {
-                Console.WriteLine($"Directory not found while processing {path}: {ex.Message}");
+                Console.WriteLine($"Directory not found while processing");
             }
-            catch (FileNotFoundException ex)
+            catch (FileNotFoundException)
             {
-                Console.WriteLine($"File not found while processing {path}: {ex.Message}");
+                Console.WriteLine($"File not found while processing ");
             }
-            catch (DriveNotFoundException ex)
+            catch (DriveNotFoundException)
             {
-                Console.WriteLine($"Drive not found while processing {path}: {ex.Message}");
+                Console.WriteLine($"Drive not found while processing ");
             }
-            catch (Exception ex)
+            catch (Exception)
             {
-                Console.WriteLine($"Error while processing {path}: {ex.Message}");
+                Console.WriteLine($"Error while processing ");
             }
 
             return files;

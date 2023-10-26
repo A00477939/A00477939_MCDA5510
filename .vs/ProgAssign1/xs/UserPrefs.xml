@@ -1,9 +1,7 @@
 ﻿<Properties StartupConfiguration="{876533B2-1ABC-468F-8E38-E7B22D831334}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <FunctionBreakpoint enabled="false" line="14" column="9" function="public void walk" language="C#" params="String path" />
-    </BreakpointStore>
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ProgAssign1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="ProgAssign1/DirWalker.cs">
     <Files>
       <File FileName="ProgAssign1/DirWalker.cs" Line="54" Column="1" />
@@ -14,8 +12,8 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ProgAssign1" expanded="True">
-            <Node name="ProgAssign1" expanded="True">
+          <Node name="ProgAssign1">
+            <Node name="ProgAssign1">
               <Node name="DirWalker.cs" selected="True" />
             </Node>
           </Node>
@@ -23,8 +21,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.ProgAssign1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <FunctionBreakpoint enabled="false" line="14" column="9" function="public void walk" language="C#" params="String path" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
